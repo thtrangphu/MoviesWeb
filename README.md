@@ -1,5 +1,8 @@
 # MoviesWeb - Web tổng hợp các phim
 ## HTML/CSS/JS/Reactjs/MongoDB
+
+https://thtrangphu.github.io/MoviesWeb/
+
 - Xem review phim và điểm đánh giá
 - Thảo luận về bộ phim
 - Tìm kiếm bộ phim đang quan tâm
